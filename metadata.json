@@ -1,0 +1,7 @@
+{
+  "name": "NutriAI",
+  "description": "AI-powered personalized nutrition and diet planning app with food scanning and smart recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
